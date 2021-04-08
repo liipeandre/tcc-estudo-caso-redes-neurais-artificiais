@@ -4,7 +4,7 @@ Trabalho de conclusão de curso desenvolvido para o curso de Ciência da Computa
 
 ## Autor
 
-- Aluno: André Felipe Pereira dos Santos
+- André Felipe Pereira dos Santos
 
 ## Descrição
 
