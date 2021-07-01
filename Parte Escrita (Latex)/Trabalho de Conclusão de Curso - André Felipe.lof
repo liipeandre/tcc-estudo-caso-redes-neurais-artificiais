@@ -1,0 +1,40 @@
+\babel@toc {brazil}{}
+\contentsline {figure}{\numberline {1}{\ignorespaces Problemas no reconhecimento de caracteres escritos \IeC {\`a} m\IeC {\~a}o.\relax }}{16}{figure.caption.8}
+\contentsline {figure}{\numberline {2}{\ignorespaces Carro aut\IeC {\^o}nomo da \textit {Google}.\relax }}{17}{figure.caption.9}
+\contentsline {figure}{\numberline {3}{\ignorespaces Processo de divis\IeC {\~a}o celular de uma c\IeC {\'e}lula humana de melanoma (c\IeC {\^a}ncer de pele).\relax }}{17}{figure.caption.10}
+\contentsline {figure}{\numberline {4}{\ignorespaces Sistema de reconhecimento facial.\relax }}{17}{figure.caption.11}
+\contentsline {figure}{\numberline {5}{\ignorespaces Sistema de reconhecimento de gestos.\relax }}{18}{figure.caption.12}
+\contentsline {figure}{\numberline {6}{\ignorespaces Rob\IeC {\'o}tica e automa\IeC {\c c}\IeC {\~a}o.\relax }}{18}{figure.caption.13}
+\contentsline {figure}{\numberline {7}{\ignorespaces Sistema de reconhecimento \IeC {\'o}tico de caracteres.\relax }}{19}{figure.caption.14}
+\contentsline {figure}{\numberline {8}{\ignorespaces Etapas de um sistema de Vis\IeC {\~a}o Computacional.\relax }}{19}{figure.caption.15}
+\contentsline {figure}{\numberline {9}{\ignorespaces Exemplo de uso do filtro da m\IeC {\'e}dia.\relax }}{22}{figure.caption.16}
+\contentsline {figure}{\numberline {10}{\ignorespaces Exemplo de uso do filtro da mediana.\relax }}{23}{figure.caption.17}
+\contentsline {figure}{\numberline {11}{\ignorespaces Exemplo de uso do filtro gaussiano.\relax }}{23}{figure.caption.18}
+\contentsline {figure}{\numberline {12}{\ignorespaces Aplica\IeC {\c c}\IeC {\~a}o da t\IeC {\'e}cnica de detec\IeC {\c c}\IeC {\~a}o de borda.\relax }}{25}{figure.caption.19}
+\contentsline {figure}{\numberline {13}{\ignorespaces Exemplo de aplica\IeC {\c c}\IeC {\~a}o da t\IeC {\'e}cnica de detec\IeC {\c c}\IeC {\~a}o de cor.\relax }}{25}{figure.caption.20}
+\contentsline {figure}{\numberline {14}{\ignorespaces Exemplo de aplica\IeC {\c c}\IeC {\~a}o da t\IeC {\'e}cnica de detec\IeC {\c c}\IeC {\~a}o de movimento.\relax }}{26}{figure.caption.21}
+\contentsline {figure}{\numberline {15}{\ignorespaces Exemplo de aplica\IeC {\c c}\IeC {\~a}o da t\IeC {\'e}cnica de binariza\IeC {\c c}\IeC {\~a}o.\relax }}{26}{figure.caption.22}
+\contentsline {figure}{\numberline {16}{\ignorespaces Exemplo de aplica\IeC {\c c}\IeC {\~a}o da t\IeC {\'e}cnica de agrupamento de \textit {pixels}.\relax }}{27}{figure.caption.23}
+\contentsline {figure}{\numberline {17}{\ignorespaces Exemplo de aplica\IeC {\c c}\IeC {\~a}o da t\IeC {\'e}cnica de divis\IeC {\~a}o e fus\IeC {\~a}o.\relax }}{27}{figure.caption.24}
+\contentsline {figure}{\numberline {18}{\ignorespaces Exemplo de aplica\IeC {\c c}\IeC {\~a}o da t\IeC {\'e}cnica de \textit {Watershed}.\relax }}{28}{figure.caption.25}
+\contentsline {figure}{\numberline {19}{\ignorespaces Exemplo de aplica\IeC {\c c}\IeC {\~a}o da t\IeC {\'e}cnica de rotula\IeC {\c c}\IeC {\~a}o.\relax }}{29}{figure.caption.26}
+\contentsline {figure}{\numberline {20}{\ignorespaces Exemplo de aplica\IeC {\c c}\IeC {\~a}o da t\IeC {\'e}cnica de eros\IeC {\~a}o.\relax }}{30}{figure.caption.27}
+\contentsline {figure}{\numberline {21}{\ignorespaces Exemplo de aplica\IeC {\c c}\IeC {\~a}o da t\IeC {\'e}cnica de dilata\IeC {\c c}\IeC {\~a}o.\relax }}{30}{figure.caption.28}
+\contentsline {figure}{\numberline {22}{\ignorespaces Exemplo de aplica\IeC {\c c}\IeC {\~a}o do algoritmo de Harris.\relax }}{31}{figure.caption.29}
+\contentsline {figure}{\numberline {23}{\ignorespaces Exemplo de aplica\IeC {\c c}\IeC {\~a}o do algoritmo SIFT.\relax }}{32}{figure.caption.30}
+\contentsline {figure}{\numberline {24}{\ignorespaces Imagem com os pontos chaves detectados pelo algoritmo SURF.\relax }}{33}{figure.caption.31}
+\contentsline {figure}{\numberline {25}{\ignorespaces Exemplo de aplica\IeC {\c c}\IeC {\~a}o do algoritmo FAST.\relax }}{33}{figure.caption.32}
+\contentsline {figure}{\numberline {26}{\ignorespaces Imagem com os pontos chaves detectados pelo algoritmo BRIEF.\relax }}{34}{figure.caption.33}
+\contentsline {figure}{\numberline {27}{\ignorespaces Imagem com descritores detectados pelo algoritmo ORB .\relax }}{34}{figure.caption.34}
+\contentsline {figure}{\numberline {28}{\ignorespaces Exemplo de aplica\IeC {\c c}\IeC {\~a}o do algoritmo de Hough.\relax }}{35}{figure.caption.35}
+\contentsline {figure}{\numberline {29}{\ignorespaces Representa\IeC {\c c}\IeC {\~a}o de um neur\IeC {\^o}nio artificial.\relax }}{37}{figure.caption.36}
+\contentsline {figure}{\numberline {30}{\ignorespaces Comportamento da fun\IeC {\c c}\IeC {\~a}o linear.\relax }}{39}{figure.caption.37}
+\contentsline {figure}{\numberline {31}{\ignorespaces Comportamento da fun\IeC {\c c}\IeC {\~a}o com limite igual a $1$.\relax }}{40}{figure.caption.38}
+\contentsline {figure}{\numberline {32}{\ignorespaces Comportamento da fun\IeC {\c c}\IeC {\~a}o sigm\IeC {\'o}ide.\relax }}{41}{figure.caption.39}
+\contentsline {figure}{\numberline {33}{\ignorespaces Comportamento da fun\IeC {\c c}\IeC {\~a}o da tangente hiperb\IeC {\'o}lica.\relax }}{41}{figure.caption.40}
+\contentsline {figure}{\numberline {34}{\ignorespaces Representa\IeC {\c c}\IeC {\~a}o de uma RNA de \IeC {\'u}nica camada.\relax }}{42}{figure.caption.41}
+\contentsline {figure}{\numberline {35}{\ignorespaces Representa\IeC {\c c}\IeC {\~a}o de uma RNA de m\IeC {\'u}ltiplas camadas.\relax }}{43}{figure.caption.42}
+\contentsline {figure}{\numberline {36}{\ignorespaces Dados de treinamento transformados ap\IeC {\'o}s PCA.\relax }}{44}{figure.caption.43}
+\contentsline {figure}{\numberline {37}{\ignorespaces Problema do XOR.\relax }}{47}{figure.caption.44}
+\contentsline {figure}{\numberline {38}{\ignorespaces \textit {Underfitting} e \textit {overfitting}.\relax }}{50}{figure.caption.45}
+\contentsline {figure}{\numberline {39}{\ignorespaces Funcionamento do algoritmo de treinamento e teste desenvolvido.\relax }}{61}{figure.caption.55}
