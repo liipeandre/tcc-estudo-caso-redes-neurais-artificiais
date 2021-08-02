@@ -1,4 +1,4 @@
-# Análise de desempenho de redes neurais artificiais para problemas de classificação
+# Redes Neurais Artificiais para Problemas de Classificação
 
 Trabalho de conclusão de curso desenvolvido para o curso de Ciência da Computação da Universidade Tuiuti do Paraná.
 
