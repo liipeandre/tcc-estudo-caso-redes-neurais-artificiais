@@ -1,16 +1,17 @@
-# Redes Neurais Artificiais para Problemas de Classificação
+# Performance Analysis of Artificial Neural Networks for Classification Problems
 
-Trabalho de conclusão de curso desenvolvido para o curso de Ciência da Computação da Universidade Tuiuti do Paraná.
+Course completion work developed for the Computer Science course at Tuiuti University of Paraná.
 
-## Autor
+## Author
 
 - André Felipe Pereira dos Santos
 
-## Descrição
+## Description
 
-Este repositório possui:
+This repository has:
 
-- Os algoritmos desenvolvidos.
-- Manuais de instalação do ambiente de execução.
-- Os resultados obtidos.
-- A parte escrita, desenvolvida em LaTex.
+- The developed algorithms.
+- Runtime installation manuals.
+- The obtained results.
+- The written part, developed in LaTex, and the same in .pdf format.
+
