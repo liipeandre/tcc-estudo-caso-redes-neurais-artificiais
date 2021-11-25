@@ -14,3 +14,11 @@ Este repositório possui:
 - Manuais de instalação do ambiente de execução.
 - Os resultados obtidos.
 - A parte escrita, desenvolvida em LaTex, e a mesma no formato .pdf.
+
+## Como Executar
+
+- Instale o Python e as dependências: Scikit-Learn, Pickle e Numpy
+- Descompacte o dataset
+- Rode o arquivo 'generate_test_cases.py' para que ele gere um conjunto de arquivos .txt com os casos de teste no formato .json.
+- Rode o arquivo 'run_test_cases.py' passando como argumento o diretório do arquivo que será processado.
+- A saída, contendo as redes neurais e os resultados de cada uma delas, estarão salvas na pasta 'output'.
