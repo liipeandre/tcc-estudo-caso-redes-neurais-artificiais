@@ -18,5 +18,5 @@ Este repositório possui:
 - Instale o Python e as dependências: Scikit-Learn, Pickle e Numpy
 - Descompacte o dataset
 - Rode o arquivo 'generate_test_cases.py' para que ele gere um conjunto de arquivos .txt com os casos de teste no formato .json.
-- Rode o arquivo 'run_test_cases.py' passando como argumento o diretório do arquivo que será processado, gerado no passo anterior.
-- A saída, contendo as redes neurais e os resultados de cada uma delas, estarão salvas na pasta 'output'.
+- Rode o arquivo 'run_test_cases.py' passando como argumento o diretório do arquivo .txt que será processado, gerado no passo anterior.
+- A saída, contendo as redes neurais e os resultados dos testes de cada uma delas, estarão salvas na pasta 'output'.
