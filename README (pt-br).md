@@ -11,9 +11,7 @@ Trabalho de conclusão de curso desenvolvido para o curso de Ciência da Computa
 Este repositório possui:
 
 - Os algoritmos desenvolvidos.
-- Manuais de instalação do ambiente de execução.
-- Os resultados obtidos.
-- A parte escrita, desenvolvida em LaTex, e a mesma no formato .pdf.
+
 
 ## Como Executar
 
