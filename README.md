@@ -11,9 +11,6 @@ Course completion work developed for the Computer Science course at Tuiuti Unive
 This repository has:
 
 - The developed algorithms.
-- Runtime installation manuals.
-- The obtained results.
-- The written part, developed in LaTex, and the same in .pdf format.
 
 
 ## How to Run
