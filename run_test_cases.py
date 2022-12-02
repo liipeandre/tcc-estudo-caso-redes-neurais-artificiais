@@ -3,7 +3,7 @@ from modules.paralelism import *
 from modules.file_manipulation import print_format, write_neural_network, write_on_output
 from modules.neural_network import create_neural_network, train_neural_network, test_neural_network
 
-from os import environ
+from os import cpu_count
 from json import loads
 
 
@@ -75,7 +75,7 @@ def main():
     print("Iniciando treinamento...")
 
     while threads:
-        max_threads = int(environ["NUMBER_OF_PROCESSORS"])
+        max_threads = cpu_count()
         for thread in threads[:max_threads]:
             if thread.ident is None:
                 thread.start()
